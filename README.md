@@ -13,8 +13,6 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 
 </p>
 
-#
-
 
 ## Sobre mim
 
@@ -47,10 +45,3 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 </p>
 
 
-
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</p>
