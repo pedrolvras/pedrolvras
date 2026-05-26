@@ -27,8 +27,6 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 
 ## 🛠️ Tecnologias
 
-
-
 <p align="left">
 
 <img 
@@ -54,7 +52,7 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-
+/>
 </p>
 
 
