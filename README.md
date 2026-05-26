@@ -28,15 +28,6 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 ## 🛠️ Tecnologias
 
 <p align="left">
-
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -55,59 +46,6 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 />
 </p>
 
-
-
----
-
-
-
-## 🔥 Visão geral do GitHub
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=dark" alt="GitHub Streak" height="180em" />
-
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=dark" alt="Top Langs" height="180em" />
-
-</p>
-
-
-
----
-
-
-
-## 🏆 Troféus & 📝 Atividade
-
-
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=onedark" alt="GitHub Trophies" />
-
-</p>
-
-
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seu-usuario&theme=github-dark" alt="Activity Graph" width="100%" />
-
-</p>
-
-
-
----
 
 
 
