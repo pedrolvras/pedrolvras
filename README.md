@@ -7,8 +7,6 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 
 </p>
 
-#
-
 <p align="center">
 
   <b>Software Engineer • Python  • C • GIT • SaaS</b>
@@ -18,25 +16,13 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 #
 
 
-
 ## 🚀 Sobre mim
-
-
-
-* 💻 Desenvolvedor Full Stack apaixonado por tecnologia e inovação
-
-* 📚 Estudando [Seu Curso/Faculdade]
 
 * ⚙️ Focado no desenvolvimento de soluções robustas e performáticas
 
 * 🛠️ Criando sistemas web, aplicações modernas e automações
 
-* 📝 Sempre buscando evoluir e aprender novas ferramentas diariamente
-
-
-
----
-
+* 📝 Sempre buscando evoluir e aprender novas ferramentas diariamente.
 
 
 ## 🛠️ Tecnologias
@@ -45,23 +31,29 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 
 <p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="40" height="40" alt="Tailwind" />
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 
 </p>
 
