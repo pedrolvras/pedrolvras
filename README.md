@@ -2,28 +2,18 @@
 
 Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando Ciência da Computação na UVA. Explorando novas tecnologias e metodologias para aprimorar minha expertise por meio de cursos online, leitura e networking.
 <p align="center">
-
-  <a href="👉 LINK_DO_SEU_GITHUB"><b>GITHUB</b></a> • 
-
-  <a href="👉 LINK_DO_SEU_LINKEDIN"><b>LINKEDIN</b></a> • 
-
-  <a href="mailto:seu.email@gmail.com"><b>GMAIL</b></a>
+  
+  <a href="mailto:pedro.particular01@gmail.com"><b>GMAIL</b></a>
 
 </p>
-
-
 
 ---
 
-
-
 <p align="center">
 
-  <b>Desenvolvedor Full Stack • Tecnologias Principais • Outra Skill • SaaS</b>
+  <b>Software Engineer • Python  • C • GIT • SaaS</b>
 
 </p>
-
-
 
 <p align="center">
 
