@@ -16,7 +16,7 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 #
 
 
-##Sobre mim
+## Sobre mim
 
 * ⚙️ Focado no desenvolvimento de soluções robustas e performáticas
 
@@ -25,7 +25,7 @@ Me chamo Pedro Henrique de oliveira, tenho 19 anos e sou natural do Rio de Janei
 * 📝 Sempre buscando evoluir e aprender novas ferramentas diariamente.
 
 
-##Tecnologias
+## Tecnologias
 
 <p align="left">
 <img 
